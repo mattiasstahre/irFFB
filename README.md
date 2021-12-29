@@ -5,3 +5,6 @@ irFFB can feed the 360 Hz steering column torque data recently made available in
 It can also drive a 'Jetseat' and fans if you have them.
 
 There's more detail in the wiki..
+
+Forked from:
+https://github.com/nlp80/irFFB
